@@ -2,7 +2,7 @@
 
 Here, I have Cleaned the Products table and Customer Table Before I transfer them to PowerBI for visualization and Dashboard Creation
 
---------------------------------------------------------------------------------------------- Cleaning customer Table
+------------------------------------------------ Cleaning customer Table
 Select *
 FROM customer;
 
@@ -136,9 +136,9 @@ Select *
 From cte_duplicate
 Where row_num > 1;
 
------------------------------------------------------------------------------------------------ Done Cleaning. Will now transfer data to PowerBI
+----------------------------------------------------------- Done Cleaning. Will now transfer data to PowerBI
 
------------------------------------------------------------------------------------------------------------Cleaning Products Table
+---------------------------------------------------------Cleaning Products Table
 SELECT *
 FROM product;
 
@@ -188,4 +188,4 @@ Where Category is NULL;
 SELECT *
 FROM Products_staging;
 
---------------------------------------------------------------------------------------------------------- Done Cleaning. Will now transfer data to PowerBI
+------------------------------------------------------ Done Cleaning. Will now transfer data to PowerBI
