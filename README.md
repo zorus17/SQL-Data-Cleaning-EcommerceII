@@ -1,7 +1,7 @@
 # SQL-Data-Cleaning-EcommerceII
 
 Here, I have Cleaned the Products table and Customer Table Before I transfer them to PowerBI for visualization and Dashboard Creation<br>
-You can see the final output in my Portfolio under projects by [Clicking Here] (https://cedrick-cruz-portfolio.web.app/#projects) named Ecommerce II.<br>
+You can see the final output in my Portfolio under projects by [Clicking Here](https://cedrick-cruz-portfolio.web.app/#projects) named Ecommerce II.<br>
 You can see the project name by <br>
 Desktop: Hover your mouse over the image<br>
 Mobile: Tap the image<br>
